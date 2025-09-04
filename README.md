@@ -53,7 +53,7 @@ npm run build
 
 ## 📸 Demo
 
-![preview](public\preview.png)
+![preview](./public/preview.png)
 
 ---
 
