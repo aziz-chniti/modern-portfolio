@@ -1,12 +1,70 @@
-# React + Vite
+# Modern Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built with **React,** **Tailwind CSS,**  and **Framer Motion**.  
+This project is designed to showcase your personal brand, skills, and projects in a clean and professional way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 Modern and minimalist UI
+- 📱 Fully responsive (mobile-first design)
+- ⚡ Built with React + Tailwind CSS + Framer Motion
+- 🖼️ Projects showcase section
+- 📧 Contact form integration
+- 🌙 Clean and simple code structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Styling framework
+- **Framer Motion** – Animation Framework
+- **JavaScript (ES6+)** – Logic & interactivity
+- **Vite / CRA** – Fast build setup (depending on project setup)
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/aziz-chniti/modern-portfolio.git
+cd modern-portfolio
+```
+
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+```bash
+npm run dev
+```
+
+### 4️⃣ Build for production
+```bash
+npm run build
+```
+
+---
+
+## 📸 Demo
+
+![preview](public\preview.png)
+
+---
+
+## 📬 Contact
+
+If you like this project or want to collaborate, feel free to reach out:  
+
+- Upwork: [Available](https://www.upwork.com/freelancers/~014afdcf19c4e3bb74)
+- Youtube: [@Barmajli](https://www.youtube.com/@Barmajli)
+- Demo link: *(Add your live link here)*  
+
+---
+
+⭐ Don’t forget to star this repo if you find it useful!

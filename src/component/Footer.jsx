@@ -22,7 +22,7 @@ function Footer() {
           <nav className="flex gap-4">
             {navName.map((name, index) => (
               <a
-                className="relative pb-1 group font-bold text-sm"
+                className="relative pb-1 group font-bold sm:text-sm text-xs"
                 key={index}
                 href={`#${name.toLowerCase()}`}
               >
