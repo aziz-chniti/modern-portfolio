@@ -63,7 +63,7 @@ If you like this project or want to collaborate, feel free to reach out:
 
 - Upwork: [Available](https://www.upwork.com/freelancers/~014afdcf19c4e3bb74)
 - Youtube: [@Barmajli](https://www.youtube.com/@Barmajli)
-- Demo link: *(Add your live link here)*  
+- Demo link: [Click here](https://modern-pf.netlify.app/) 
 
 ---
 
