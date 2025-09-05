@@ -15,27 +15,27 @@ const Works = () => {
     {
       id: 1,
       categ: "apps",
-      img: "src/assets/workImg/work-1.jpg",
+      img: "./workImg/work-1.jpg",
     },
     {
       id: 2,
       categ: "apps",
-      img: "src/assets/workImg/work-2.jpg",
+      img: "./workImg/work-2.jpg",
     },
     {
       id: 3,
       categ: "ux/ui",
-      img: "src/assets/workImg/work-3.jpg",
+      img: "./workImg/work-3.jpg",
     },
     {
       id: 4,
       categ: "branding",
-      img: "src/assets/workImg/work-4.jpg",
+      img: "./workImg/work-4.jpg",
     },
     {
       id: 5,
       categ: "content",
-      img: "src/assets/workImg/work-7.jpg",
+      img: "./workImg/work-7.jpg",
     },
   ];
   const [works, setWorks] = useState([...workTab]);

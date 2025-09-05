@@ -14,7 +14,7 @@ const testimonials = [
     id: 1,
     name: "Tim Bailey",
     role: "SEO Specialist, Theme Junction",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "play",
@@ -23,7 +23,7 @@ const testimonials = [
     id: 2,
     name: "Brandon Fraser",
     role: "Senior Software Dev, Cosmic Sport",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "quote",
@@ -32,7 +32,7 @@ const testimonials = [
     id: 3,
     name: "Tim Bailey",
     role: "SEO Specialist, Theme Junction",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "play",
@@ -41,7 +41,7 @@ const testimonials = [
     id: 4,
     name: "Brandon Fraser",
     role: "Senior Software Dev, Cosmic Sport",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "quote",
@@ -50,7 +50,7 @@ const testimonials = [
     id: 5,
     name: "Brandon Fraser",
     role: "Senior Software Dev, Cosmic Sport",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "quote",
@@ -59,7 +59,7 @@ const testimonials = [
     id: 6,
     name: "Tim Bailey",
     role: "SEO Specialist, Theme Junction",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "play",
@@ -68,7 +68,7 @@ const testimonials = [
     id: 7,
     name: "Brandon Fraser",
     role: "Senior Software Dev, Cosmic Sport",
-    image: "src/assets/clients/client1.jpg",
+    image: "clients/client.jpg",
     quote:
       "Taylor is a professional Designer he really helps my business by providing value to my business.",
     icon: "quote",

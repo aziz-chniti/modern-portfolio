@@ -97,7 +97,7 @@ const Hero = () => {
         >
           <div className="h-80 w-80 xl:w-[400px] xl:h-[400px] bg-black rounded-2xl overflow-hidden shadow-lg border border-primary-dark border-2 rotate-3 group hover:rotate-0 duration-300 ease-in-out hover:border-primary-light">
             <img
-              src=".\src\assets\picture.png"
+              src="picture.png"
               alt="profile picture"
               loading="lazy"
               className="w-full h-full object-cover object-top "

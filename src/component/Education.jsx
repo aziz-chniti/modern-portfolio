@@ -54,8 +54,8 @@ const Education = () => {
               <h1 className=" flex gap-2 text-3xl lg:text-5xl font-bold">
                 {/* <AwardIcon size={36} className="text-primary" /> */}
                 <img
-                  src="src\assets\aword.svg"
-                  className="w-11 relative -top-2 text-primary"
+                  src="./aword.svg"
+                  className="w-11 relative -top-2 md:-top-1 text-primary"
                   alt=""
                 />
                 My Experience
@@ -85,7 +85,7 @@ const Education = () => {
             >
               <h1 className=" flex gap-2 text-3xl lg:text-5xl font-bold">
                 {/* <AwardIcon size={36} className="text-primary" /> */}
-                <GraduationCapIcon size={46} className="text-primary mr-1 relative -top-2" />
+                <GraduationCapIcon size={46} className="text-primary mr-1  relative -top-2 md:top-0" />
                 My Education
               </h1>
             </motion.div>

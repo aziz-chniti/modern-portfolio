@@ -3,47 +3,47 @@ import tw from "tailwind-styled-components";
 import { useScrollVisibility } from "../hooks/scrollVisibility.js";
 const skills = [
   // {
-  //   img: "src/assets/skills/html.svg",
+  //   img: "./skills/html.svg",
   //   deg: "87%",
   //   title: "HTML",
   // },
   // {
-  //   img: "src/assets/skills/css.svg",
+  //   img: "./skills/css.svg",
   //   deg: "85%",
   //   title: "CSS",
   // },
   {
-    img: "src/assets/skills/javascript.svg",
+    img: "./skills/javascript.svg",
     deg: "75%",
     title: "Javascript",
   },
   {
-    img: "src/assets/skills/react.svg",
+    img: "./skills/react.svg",
     deg: "80%",
     title: "React",
   },
   {
-    img: "src/assets/skills/tailwindcss.svg",
+    img: "./skills/tailwindcss.svg",
     deg: "80%",
     title: "Tailwind",
   },
   {
-    img: "src/assets/skills/express-js.svg",
+    img: "./skills/express-js.svg",
     deg: "80%",
     title: "Express",
   },
   {
-    img: "src/assets/skills/mongodb.svg",
+    img: "./skills/mongodb.svg",
     deg: "76%",
     title: "MongoDB",
   },
   {
-    img: "src/assets/skills/figma.svg",
+    img: "./skills/figma.svg",
     deg: "60%",
     title: "Figma",
   },
   {
-    img: "src/assets/skills/git.svg",
+    img: "./skills/git.svg",
     deg: "76%",
     title: "Git",
   },
