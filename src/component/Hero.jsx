@@ -77,7 +77,7 @@ const Hero = () => {
               <IconBox href="#">
                 <Dribbble className="text-primary-dark group-hover:text-white duration-300 ease-in-out" />
               </IconBox>
-              <IconBox href="https://github.com/azizchniti" target="_blank">
+              <IconBox href="https://github.com/aziz-chniti" target="_blank">
                 <Github className="text-primary-dark group-hover:text-white duration-300 ease-in-out" />
               </IconBox>
             </div>
